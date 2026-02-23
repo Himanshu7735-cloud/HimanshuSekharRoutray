@@ -9,7 +9,7 @@ I’m a passionate Python developer skilled in backend development, API automati
 - Flask, Pandas, NumPy, Requests
 - REST APIs, CRUD, MVC
 - MySQL, Oracle SQL, SQLite
-- Git, GitHub, VS Code, PyCharm, Postman
+- Git, GitHub, VS Code, PyCharm, jupiter notebook
 
 ## 🚀 Projects
 - **Student Result Management System** – Python CLI app using OOP & JSON
